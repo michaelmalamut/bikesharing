@@ -41,3 +41,5 @@ Bikes are mostly used for up to 30 minutes.
 Users who dont share the gender are mostly active riding on weekends.
 
 One additional visualization that can be done would be Bike usage by weekday and user type. Another visualization would be User type and genders most popular locations.
+
+https://public.tableau.com/app/profile/michael.malamut/viz/NYCBikesStory_16519789898450/NYCBikes?publish=yes
