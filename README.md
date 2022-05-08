@@ -34,3 +34,10 @@ Trips by gender. Above chart shows Males are more active with Citi Bike than fem
 User trips by gender by weekday.
 
 ## Summary
+Based on the analysis, Males were a major consumer of the bike sharing service compared to Females and the unknown. 
+
+Bikes are mostly used for up to 30 minutes.
+
+Users who dont share the gender are mostly active riding on weekends.
+
+One additional visualization that can be done would be Bike usage by weekday and user type. Another visualization would be User type and genders most popular locations.
